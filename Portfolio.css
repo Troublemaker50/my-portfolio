@@ -76,12 +76,13 @@ h1{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    
 }
 
 #bling1{
     background-color: white;
     padding: 30px; 
-    font-stretch: extra-expanded;
+    font-stretch: extra-expanded===;
     font-size: smaller;
     font-weight: 600;
 }
@@ -108,4 +109,18 @@ h1{
 
 #bow{
     margin-left: 40px;
+}
+#bling1,
+#bling2{
+    width: 45%;
+    padding-left: 20px;
+    border-radius: 5px;
+}
+.a{
+    display: flex;
+    
+}
+.b{
+    margin-right: 20px;
+    margin-left: 20px;
 }
