@@ -1,0 +1,137 @@
+.home {
+    list-style: none;
+    display: flex;
+    flex-direction: end;
+    justify-content: flex-end;
+    padding: 0 40px;
+}
+
+.fix {
+    color: black;
+    font-size: large;
+    padding: 20px 10px;
+    font-weight: 500;
+    text-decoration: none;
+    font-family: 'Heebo', sans-serif;
+    font-size: x-large;
+}
+
+.active {
+    color: #ff6464;
+}
+
+#leftsection {
+    padding: 30px;
+    padding-top: 150px;
+}
+
+.p4 {
+    padding: 50px 40px 0;
+}
+
+#rightsection img {
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+}
+
+#leftsection button {
+    background-color: #ff6464;
+    color: white;
+    border: none;
+    padding: 10px;    
+    font-weight: bold;font-size: medium;
+}   
+
+.p4{
+    padding: 0 40px;
+    display: flex;
+    align-items: center;
+    font-family: 'Heebo', sans-serif;
+}
+
+h1{
+    font-size: xx-large;
+}
+
+#rightsection{
+    justify-content: end;   
+}
+
+#flex{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    text-decoration: none;
+}
+
+#secttwo{
+    flex-direction: column;
+    padding: 70px;
+    background-color: aliceblue;
+    margin-top: 50px;
+}
+
+#amaka{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+#bling1{
+    background-color: white;
+    padding: 30px; 
+    font-stretch: extra-expanded;
+    font-size: smaller;
+    font-weight: 600;
+}
+
+#bling2{
+    background-color: white;
+    padding: 30px;
+    font-stretch: extra-expanded;
+    font-size: smaller;
+    font-weight: 600;
+}
+
+#bling3{
+    padding: 30px;
+    padding-top: 70px;
+    margin-inline: auto;
+}
+
+#bling3 img{
+    border-radius: 3%;
+    width: 250px;
+    height: 180px;
+}
+
+#bow{
+    margin-left: 40px;
+}
+#bling1,
+#bling2{
+    width: 45%;
+    padding-left: 20px;
+    border-radius: 5px;
+}
+
+.a{
+    display: flex;
+    
+}
+
+.b{
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+#button{
+    border-radius: 90px;
+    color: white;
+    background-color: rgb(1, 1, 65);
+    border: none;
+    font-weight: bold;
+    padding: 3px;
+}
